@@ -6,6 +6,9 @@ These examples were written for my german [JavaSPEKTRUM](http://www.javaspektrum
 article "Der Praktiker: Dynamische Proxys mit dem JDK umsetzen - Der
 dynamische Stellvertreter".
 
+You can read it online [here](https://www.innoq.com/de/articles/2020/03/java-dynamic-proxy/)
+or download as PDF [here](http://www.sigs.de/publications/download/Artikel/vitz_JS_01_20_ijfz.pdf).
+
 
 ## License
 
